@@ -1,0 +1,117 @@
+0.1   - Initial release
+
+
+0.1.1  - Thanks a lot to Kilyin for help.
+Fixed lightbar
+Fixed lights
+Fixed extras
+Added settings by Kilyin
+
+0.1.2
+Improved template
+Added spotlights
+
+
+0.2   - Thanks a lot ot F5544 for help.
+Fixed dirt mapping
+Improved lightbar
+
+
+0.2.1 - Thanks a lot to vladimir850 for help.
+Fixed broken glass effect
+Improved textures by vladimir850
+
+
+0.2.2 
+Fixed position of plate lights
+Improved template
+
+
+0.3   - Thanks a lot ot F5544 for help.
+Improved lightbar by F5544
+
+
+0.3.5 - Thanks a lot ot vladimir850 for help.
+Improved interior.
+
+
+0.4   - Thanks a lot ot OfficerFive0 and vladimir850 for help.
+Added new spotlights by OfficerFive0
+Improved some textures
+improved lightbar
+improved mirrors
+Improved roof
+Improved interior
+
+
+0.4.5 - Thanks a lot to sub68 for help.
+Added antennas
+Improved front bumper
+Improved lights
+Improved push bumper
+
+
+0.5 - Thanks a lot ot DroidRZRLover for help.
+Fixed bug with pushbumper steady burn light
+Fixed lights tinting
+Added strobe lights 
+Added Traffic Advisor by DannyBoy1909
+Improved boot
+Improved mirrors
+Improved pushbumper
+Improved lights
+Improved lightbar
+Improved some textures
+Improved template
+Improved police lighting setup by DroidRZRLover
+
+
+0.6 - Thanks a lot to DroidRZRLover for help.
+Fixed strobe lights
+Added mirror lights as extras
+Added new rims by Bxbugs123
+Improved spotlights
+Improved lights
+Improved interior 
+
+
+0.6.5 - Thanks a lot to OfficerFive0 for help. 
+Replaced lightbar with model by OfficerFive0 and EVI
+
+0.6.6
+Fixed floating wheels bug
+Fixed credits
+
+
+0.7
+Improved interior
+Improved engine
+Improved bonnet
+Improved push bumper
+Improved spotlights
+
+
+0.7.5 - Thanks a lot to DroidRZRLover for help.
+Fixed aliasing
+Added working dials
+Improved Ford logos
+Improved interior
+Improved lights
+Improved dirt mapping
+Improved lightbar
+Improved rear bumper
+Improved interior
+Improved wheels position
+
+
+0.8 - Thanks a lot to NeOnLaZeR, OfficerFive0, Scuderio, SeaHawk14, steinberg4145, vladimir850 for their help and support.
+Fixed rear passanger position
+Fixed non breaking lightbar glass
+Added full proper LODs support (thanks a lot to steinberg4145 for help with L3/L4)
+Added animation to engine and exhaust
+Added Setina Partition and Coban Dashcam by OfficerFive0
+Improved lights
+Improved lightbar 
+Improved interior
+General improvements
+
